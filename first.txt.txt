@@ -1,1 +1,3 @@
 hello git
+todays date is 26th
+time 8:30
