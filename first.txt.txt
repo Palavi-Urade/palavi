@@ -1,4 +1,4 @@
 hello git
-todays date is 31st
-time 7:35.
+todays date is 1st
+time 7:13.
 hi am palavi
